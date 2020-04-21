@@ -1,0 +1,18 @@
+Q4
+
+When the magnitude of the derivative increases but the solution magnitude does not. In this situation, the error can grow so large that it dominates the calculations.
+Initial-value problems for which this is likely to occur are called stiff equations.
+
+
+Electrical circuits with capecitor,resistence and inductor(LCR) or LR or RC circuits because Stiff differential equations are characterized as those whose exact solution has a term
+of the form e^-ct.
+
+
+
+Runge-Kutta Fourth-Order Method
+
+
+
+scipy.integrate.odeint
+scipy.integrate.ode
+

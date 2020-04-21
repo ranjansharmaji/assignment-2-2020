@@ -1,0 +1,11 @@
+Q14
+gsl_odeiv2_step_rk4
+Explicit 4th order (classical) Runge-Kutta.
+
+
+gsl_odeiv2_step_rkf45
+Explicit embedded Runge-Kutta-Fehlberg (4, 5) method.
+
+
+gsl_odeiv2_step_rk1imp
+Implicit Gaussian first order Runge-Kutta. Also known as implicit Euler or backward Euler method.
